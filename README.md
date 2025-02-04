@@ -48,21 +48,23 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <p align="center">
 
-   <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000"/>
-    <img src="https://img.icons8.com/?size=50&id=55251&format=png&color=000000"/>
+   
+ <img src="https://img.icons8.com/?size=50&id=55251&format=png&color=000000"/>
       <img src="https://img.icons8.com/?size=50&id=lTKW3iI3wIT0&format=png&color=000000"/>
      <!--  <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000"/>
       <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000"/>
-       <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000"/>-->
+       <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000"/>
+       <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000"/>
+      <img src="https://img.icons8.com/color/48/000000/github-2.png"/>  -->
        <img src="https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000"/>
-      <img src="https://img.icons8.com/?size=50&id=04OFrkjznvcd&format=png&color=000000"/>
-      <img src="https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
+    
     <img src="https://img.icons8.com/?size=50&id=62452&format=png&color=000000"/>
        <img src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000"/>
 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+ <img src="https://img.icons8.com/?size=50&id=04OFrkjznvcd&format=png&color=000000"/>
+      <img src="https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
      <img src="https://img.icons8.com/?size=50&id=ezj3zaVtImPg&format=png&color=000000"/>
     
