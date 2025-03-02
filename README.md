@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi 👋, I'm Minh Hieu</h2>
 <p align="center">
-  <h3 align="center">I am a newbie with a passion for mobile application development and business analyst.</h3>
+  <h3 align="center">I am a newbie with a passion for mobile application development and business analysis.</h3>
 </p>
 
 
@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 <img align="right" width="200" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 -  [UDEMY] [Android App Development in 34 Hours : MobDevOps+ Android 15](https://drive.google.com/file/d/1itZ7ErhhVJfGtRL2XkqqsvmEnrj-SRgb/view?usp=sharing).
+-  [SIMPLILEARN] [Business Analysis Basics](https://drive.google.com/file/d/1REQGJvskRU_L6tI0oRkEOR4tDbxMdo7A/view?usp=sharing).
 
 
 
