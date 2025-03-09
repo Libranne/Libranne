@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - ✍ I'm a student of: [Ha Noi Open University](https://hou.edu.vn/) (HOU).
 
-- 🌱 Currently, I am learning kotlin, dart to become a Android developer and working on achieving the TOEIC foreign language certification!
+- 🌱 I am currently learning to become a Business Analyst and working towards achieving the TOEIC foreign language certification!
 
 
 <br />
